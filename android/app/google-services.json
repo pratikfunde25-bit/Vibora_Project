@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "149991619253",
+    "project_id": "vibora-6c5d7",
+    "storage_bucket": "vibora-6c5d7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149991619253:android:a195d936a7ed345d0e5cfc",
+        "android_client_info": {
+          "package_name": "com.eventconnect.event_connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149991619253-clprih6rhe810uk2ba9as60dtngrtuto.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eventconnect.event_connect",
+            "certificate_hash": "bfae057f82b72ff09410739cdb3a6e7630da68a4"
+          }
+        },
+        {
+          "client_id": "149991619253-n337s7bag13o37iqkqhl7gj5lgpg6bjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs5_fr7o-YJYc2SEEcuZl1UxKZBCXMy9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149991619253-n337s7bag13o37iqkqhl7gj5lgpg6bjd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "149991619253-c318kq4g6alq0bpurj4vc2qqmed9fd10.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eventconnect.eventConnect"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
